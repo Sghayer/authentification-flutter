@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801042705511",
+    "project_id": "edumate-682e5",
+    "storage_bucket": "edumate-682e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801042705511:android:572f63a2a05922b0ffb8c2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801042705511-8tj7co4jf8agplhlch3k0pidn4hces81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5_nQmk3Ggb-KDLvjoit2v8iNlBrU77c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801042705511-8tj7co4jf8agplhlch3k0pidn4hces81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
